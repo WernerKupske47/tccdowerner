@@ -1,0 +1,11 @@
+Estação: Vaisala Área Experimental UFSC Curitibanos   
+Latitude:     
+<!-- dois underline antes de depois do texto deixam ele em negrito -->
+<!-- um underline antes e depois do texto deixam ele em italico  -->
+Longitude:       
+Altitude:
+
+
+Os dados são obtidos na própria estação na Universidade Federal de Santa Catarina, através de um console.  Para mais informações referentes a estação meteorológica e coleta de dados, acesse [Console](https://www.davisinstruments.com/product_documents/weather/manuals/07395-234_IM_06312.pdf) e [Integrated Sensor Suite](https://www.davisinstruments.com/product_documents/weather/manuals/07395-333_IM_6322C-6334.pdf).
+
+Obs.: As cédulas em branco são de dados não coletados por falha na estação meteorológica.
