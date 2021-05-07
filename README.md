@@ -1,3 +1,7 @@
-# est-agropecuaria-UFSC
+tccdowerner
+================
 
-Dados da estação metorológica da UFSC, localizada na Área Experimental AGropecuária
+## Introdução
+
+-   
+-   Links: [Curitibanos](public/Boletim_curitibanos_Dia.xlsx)
